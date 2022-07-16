@@ -1,0 +1,26 @@
+table{
+    text-align: center;
+    padding: 5px 90px;
+    width: 100%;
+    border-spacing: 20px;
+}
+span{
+    /* background-color: white; */
+}
+table th{
+    background-color: navy;
+    color: white;
+    padding: 5px 20px;
+    width: 100%;
+    font-size: 20px;
+}
+table,th,td{
+    border-collapse: collapse;
+    border: 2px solid black;
+}
+table tr{
+    padding: 5px 20px;
+    margin: 40px;
+    font-size: 20px;
+    color: darkred;
+}
